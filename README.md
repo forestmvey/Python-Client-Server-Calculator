@@ -5,6 +5,8 @@ The client takes a server address, a port number, an operator (‘+’, ‘-’ 
 The integers must be between 0 and 15, inclusive. The server returns the result of the performed operation on all integers from
 left to right.
 
+
+command line args
 arg 1 - ip
 arg 2 - port
 arg 3 - Operand
