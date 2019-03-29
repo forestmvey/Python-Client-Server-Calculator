@@ -7,7 +7,7 @@ left to right.
 
 
 command line args
-arg 1 - ip
+arg 1 - ip address
 arg 2 - port
-arg 3 - Operand
-arg 4 >= operators
+arg 3 - Operator
+arg 4 >= Operands
